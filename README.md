@@ -1,2 +1,2 @@
-# bootcamp_repo_test
-This is a class demo
+# This is the first project! Welcome
+I have to practice how to modify the Github files =)
